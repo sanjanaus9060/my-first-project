@@ -1,1 +1,1 @@
-# my-first-project
+# gaming platform
