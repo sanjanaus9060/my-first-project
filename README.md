@@ -1,1 +1,1 @@
-# gaming platform
+# welcome to gaming platform
